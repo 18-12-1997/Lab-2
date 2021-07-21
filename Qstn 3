@@ -1,0 +1,9 @@
+public class Main{
+    public static void main(String[] args){
+        String dna1="AATCGTCGATCGCTCT";
+        String dna2="TGCACGTAAAAC";
+        String DNA;
+        DNA=dna1+dna2;
+        System.out.println("The new DNA is: " + DNA);
+         }
+}
