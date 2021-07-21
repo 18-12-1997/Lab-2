@@ -1,0 +1,8 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    
+	    String dna="ATACGATACAA";
+		System.out.println("The dna is:" +dna);
+	}
+}
